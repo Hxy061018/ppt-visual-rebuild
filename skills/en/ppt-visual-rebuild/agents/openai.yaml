@@ -1,0 +1,6 @@
+interface:
+  display_name: "Polished PPT Creation"
+  short_description: "Draft, visually redesign, and rebuild polished editable slides"
+  default_prompt: "Use $ppt-visual-rebuild to make a polished editable presentation: create a first draft, review every slide, generate visual redesigns, and reconstruct the selected designs as editable slides."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "精致 PPT 制作"
+  short_description: "直接制作初稿，再逐页视觉检查、生图重构并高比例复刻为精致可编辑PPT"
+  default_prompt: "使用 $ppt-visual-rebuild 制作精致美观的PPT，先直接做一版，再逐页检查、生图重构风格与版式，并高比例复刻为可编辑页面。"
+policy:
+  allow_implicit_invocation: true
